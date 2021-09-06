@@ -1,1 +1,2 @@
-feat(#123): 新增某个功能点
+1、feat(#123): 新增某个功能点
+2、chore: 添加standard-version管理版本
